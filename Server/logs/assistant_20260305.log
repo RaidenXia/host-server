@@ -1,0 +1,78 @@
+[2026-03-05 13:16:43][INFO] 事件循环已关闭
+[2026-03-05 14:17:40][INFO] 事件循环已关闭
+[2026-03-05 14:28:19][INFO] 事件循环已关闭
+[2026-03-05 15:09:36][INFO] 事件循环已关闭
+[2026-03-05 15:22:32][INFO] WebSocket server started on 0.0.0.0:8000
+[2026-03-05 15:31:41][INFO] 服务器已关闭。
+[2026-03-05 15:31:41][INFO] 程序已被用户中断
+[2026-03-05 15:31:41][INFO] 事件循环已关闭
+[2026-03-05 15:32:02][INFO] WebSocket server started on 0.0.0.0:8000
+[2026-03-05 15:34:53][INFO] Client connected
+[2026-03-05 15:34:53][INFO] Authentication successful
+[2026-03-05 15:34:58][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-05 15:34:58][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-05 15:34:58][INFO] Client is idle, resetting services
+[2026-03-05 15:38:48][INFO] Client disconnected
+[2026-03-05 15:39:02][INFO] Client connected
+[2026-03-05 15:39:02][INFO] Authentication successful
+[2026-03-05 15:39:07][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-05 15:39:07][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-05 15:39:07][INFO] Client is idle, resetting services
+[2026-03-05 15:44:47][INFO] Client disconnected
+[2026-03-05 15:51:01][INFO] 服务器已关闭。
+[2026-03-05 15:51:01][INFO] 程序已被用户中断
+[2026-03-05 15:51:01][INFO] 事件循环已关闭
+[2026-03-05 15:55:26][INFO] WebSocket server started on 0.0.0.0:8000
+[2026-03-05 15:59:24][INFO] 服务器已关闭。
+[2026-03-05 15:59:24][INFO] 程序已被用户中断
+[2026-03-05 15:59:24][INFO] 事件循环已关闭
+[2026-03-05 15:59:34][INFO] 事件循环已关闭
+[2026-03-05 16:02:34][INFO] 事件循环已关闭
+[2026-03-05 16:04:07][INFO] 事件循环已关闭
+[2026-03-05 16:18:25][INFO] 事件循环已关闭
+[2026-03-05 16:33:04][INFO] 事件循环已关闭
+[2026-03-05 16:35:57][INFO] 事件循环已关闭
+[2026-03-05 16:38:25][INFO] 事件循环已关闭
+[2026-03-05 16:51:25][INFO] 事件循环已关闭
+[2026-03-05 16:55:03][INFO] 事件循环已关闭
+[2026-03-05 17:00:03][INFO] 事件循环已关闭
+[2026-03-05 17:04:22][INFO] WebSocket server started on 0.0.0.0:8000
+[2026-03-05 17:05:45][INFO] 服务器已关闭。
+[2026-03-05 17:05:45][INFO] 程序已被用户中断
+[2026-03-05 17:05:45][INFO] 事件循环已关闭
+[2026-03-05 17:05:59][INFO] WebSocket server started on 0.0.0.0:8000
+[2026-03-05 17:12:17][INFO] WebSocket server started on 0.0.0.0:8000
+[2026-03-05 17:12:33][INFO] 服务器已关闭。
+[2026-03-05 17:12:33][INFO] 程序已被用户中断
+[2026-03-05 17:12:33][INFO] 事件循环已关闭
+[2026-03-05 17:16:04][INFO] WebSocket server started on 0.0.0.0:8000
+[2026-03-05 17:17:28][INFO] 服务器已关闭。
+[2026-03-05 17:17:28][INFO] 程序已被用户中断
+[2026-03-05 17:17:28][INFO] 事件循环已关闭
+[2026-03-05 17:19:05][INFO] WebSocket server started on 0.0.0.0:8000
+[2026-03-05 17:23:08][INFO] 服务器已关闭。
+[2026-03-05 17:23:08][INFO] 程序已被用户中断
+[2026-03-05 17:23:08][INFO] 事件循环已关闭
+[2026-03-05 17:24:07][INFO] WebSocket server started on 0.0.0.0:8000
+[2026-03-05 17:25:08][INFO] Client connected
+[2026-03-05 17:25:08][INFO] Authentication successful
+[2026-03-05 17:25:13][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-05 17:25:13][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-05 17:25:13][INFO] Client is idle, resetting services
+[2026-03-05 17:31:32][INFO] Client is speaking
+[2026-03-05 17:31:39][INFO] Speech ended, last speech position: 1880 ms
+[2026-03-05 17:31:40][INFO] 任务提交成功: chat_start_task, 参数: ('什么你表情都移动了，没看到啊。',), {}
+[2026-03-05 17:31:40][INFO] asr result: 什么你表情都移动了，没看到啊。
+[2026-03-05 17:31:40][INFO] Client is thinking
+[2026-03-05 17:31:40][ERROR] 非流式生成失败，状态码: 401
+[2026-03-05 17:31:40][INFO] [意图识别结果]: 抱歉，我暂时无法处理您的请求。
+[2026-03-05 17:31:40][ERROR] 意图识别解析失败: Expecting value: line 1 column 1 (char 0)
+[2026-03-05 17:31:40][INFO] [准备调用] {'function_call': {'name': 'continue_chat'}}
+[2026-03-05 17:31:40][INFO] [回复]: 
+[2026-03-05 17:31:41][ERROR] Failed to get LLM response with status code 401
+[2026-03-05 17:33:03][WARNING] Connection closed: no close frame received or sent
+[2026-03-05 17:33:03][INFO] Client disconnected
+[2026-03-05 19:07:05][INFO] WebSocket server started on 0.0.0.0:8000
+[2026-03-05 19:08:26][INFO] 服务器已关闭。
+[2026-03-05 19:08:26][INFO] 程序已被用户中断
+[2026-03-05 19:08:26][INFO] 事件循环已关闭

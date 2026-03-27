@@ -1,0 +1,15 @@
+[2026-03-07 15:42:04][INFO] WebSocket server started on 0.0.0.0:8000
+[2026-03-07 15:48:05][INFO] 服务器已关闭。
+[2026-03-07 15:48:05][INFO] 程序已被用户中断
+[2026-03-07 15:48:05][INFO] 事件循环已关闭
+[2026-03-07 15:48:24][INFO] WebSocket server started on 0.0.0.0:8000
+[2026-03-07 15:51:21][INFO] Client connected
+[2026-03-07 15:51:21][INFO] Authentication successful
+[2026-03-07 15:51:26][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-07 15:51:26][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-07 15:51:27][INFO] Client is idle, resetting services
+[2026-03-07 15:51:36][WARNING] Connection closed: no close frame received or sent
+[2026-03-07 15:51:36][INFO] Client disconnected
+[2026-03-07 15:58:42][INFO] 服务器已关闭。
+[2026-03-07 15:58:42][INFO] 程序已被用户中断
+[2026-03-07 15:58:42][INFO] 事件循环已关闭

@@ -1,0 +1,7 @@
+[2026-03-19 12:53:56][INFO] WebSocket server started on 0.0.0.0:8000
+[2026-03-19 12:54:06][INFO] Client connected
+[2026-03-19 12:54:06][INFO] Authentication successful
+[2026-03-19 12:54:11][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-19 12:54:11][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-19 12:54:11][INFO] Client is idle, resetting services
+[2026-03-19 12:57:53][INFO] Client disconnected

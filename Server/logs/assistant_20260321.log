@@ -1,0 +1,347 @@
+[2026-03-21 15:01:03][INFO] WebSocket server started on 0.0.0.0:8000
+[2026-03-21 15:01:08][INFO] Client connected
+[2026-03-21 15:01:08][INFO] Authentication successful
+[2026-03-21 15:01:13][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-21 15:01:13][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-21 15:01:13][INFO] Client is idle, resetting services
+[2026-03-21 15:01:15][INFO] Client is speaking
+[2026-03-21 15:01:16][INFO] tts server-WS is open.
+[2026-03-21 15:01:21][INFO] No speech detected for 3 seconds, drop...
+[2026-03-21 15:01:21][WARNING] vad result: no_speech
+[2026-03-21 15:01:21][INFO] Speech synthesis task failed, {"header":{"task_id":"198db9557ca74f0ea675075c3b03a9c1","event":"task-failed","error_code":"InvalidParameter","error_message":"Please ensure input text is valid.","attributes":{}},"payload":{}}
+[2026-03-21 15:01:21][INFO] tts server-WS is closed.
+[2026-03-21 15:01:21][INFO] Request ID: 198db9557ca74f0ea675075c3b03a9c1
+[2026-03-21 15:01:21][INFO] Client is idle, resetting services
+[2026-03-21 15:10:02][WARNING] Connection closed: no close frame received or sent
+[2026-03-21 15:10:02][INFO] Client disconnected
+[2026-03-21 15:16:08][INFO] Client connected
+[2026-03-21 15:16:08][INFO] Authentication successful
+[2026-03-21 15:16:13][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-21 15:16:13][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-21 15:16:13][INFO] Client is idle, resetting services
+[2026-03-21 15:22:45][WARNING] Connection closed: no close frame received or sent
+[2026-03-21 15:22:45][INFO] Client disconnected
+[2026-03-21 15:39:25][INFO] Client connected
+[2026-03-21 15:39:25][INFO] Authentication successful
+[2026-03-21 15:39:30][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-21 15:39:30][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-21 15:39:31][INFO] Client is idle, resetting services
+[2026-03-21 15:46:25][WARNING] Connection closed: no close frame received or sent
+[2026-03-21 15:46:25][INFO] Client disconnected
+[2026-03-21 15:46:56][INFO] Client connected
+[2026-03-21 15:46:56][INFO] Authentication successful
+[2026-03-21 15:47:01][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-21 15:47:01][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-21 15:47:01][INFO] Client is idle, resetting services
+[2026-03-21 16:11:01][WARNING] Connection closed: no close frame received or sent
+[2026-03-21 16:11:01][INFO] Client disconnected
+[2026-03-21 16:14:09][INFO] Client connected
+[2026-03-21 16:14:09][INFO] Authentication successful
+[2026-03-21 16:14:14][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-21 16:14:14][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-21 16:14:14][INFO] Client is idle, resetting services
+[2026-03-21 16:23:24][WARNING] Connection closed: no close frame received or sent
+[2026-03-21 16:23:24][INFO] Client disconnected
+[2026-03-21 16:25:21][INFO] Client connected
+[2026-03-21 16:25:21][INFO] Authentication successful
+[2026-03-21 16:25:26][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-21 16:25:26][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-21 16:25:26][INFO] Client is idle, resetting services
+[2026-03-21 16:25:47][WARNING] Connection closed: no close frame received or sent
+[2026-03-21 16:25:47][INFO] Client disconnected
+[2026-03-21 16:49:05][INFO] Client connected
+[2026-03-21 16:49:05][INFO] Authentication successful
+[2026-03-21 16:49:10][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-21 16:49:10][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-21 16:49:10][INFO] Client is idle, resetting services
+[2026-03-21 16:49:17][INFO] Client is speaking
+[2026-03-21 16:49:19][INFO] tts server-WS is open.
+[2026-03-21 16:49:33][INFO] Speech ended, last speech position: 1070 ms
+[2026-03-21 16:49:35][INFO] 任务提交成功: chat_start_task, 参数: ('你好。',), {}
+[2026-03-21 16:49:35][INFO] asr result: 你好。
+[2026-03-21 16:49:36][INFO] Client is thinking
+[2026-03-21 16:49:36][INFO] [意图识别结果]: {"function_call": {"name": "continue_chat"}}
+[2026-03-21 16:49:36][INFO] [准备调用] {'function_call': {'name': 'continue_chat'}}
+[2026-03-21 16:49:36][INFO] [回复]: 
+[2026-03-21 16:49:37][INFO] Client is speaking
+[2026-03-21 16:49:38][INFO] tts server-WS is closed.
+[2026-03-21 16:49:38][INFO] Request ID: 2218cb2a01f24daa926255493524344f
+[2026-03-21 16:49:42][INFO] tts server-WS is open.
+[2026-03-21 16:49:57][INFO] Speech ended, last speech position: 980 ms
+[2026-03-21 16:50:00][INFO] 任务提交成功: chat_start_task, 参数: ('听不到音。',), {}
+[2026-03-21 16:50:00][INFO] asr result: 听不到音。
+[2026-03-21 16:50:00][INFO] Client is thinking
+[2026-03-21 16:50:01][INFO] [意图识别结果]: {"function_call": {"name": "continue_chat"}}
+[2026-03-21 16:50:01][INFO] [准备调用] {'function_call': {'name': 'continue_chat'}}
+[2026-03-21 16:50:01][INFO] [回复]: 
+[2026-03-21 16:50:02][INFO] Client is speaking
+[2026-03-21 16:50:04][INFO] tts server-WS is closed.
+[2026-03-21 16:50:04][INFO] Request ID: a43fdcc55dc1444e91c4afc2231ff419
+[2026-03-21 16:50:10][INFO] tts server-WS is open.
+[2026-03-21 16:50:10][INFO] Client disconnected
+[2026-03-21 16:50:10][INFO] Speech synthesis task failed, {"header":{"task_id":"cd2e2493e4ab4b97ac0c2a88050adb1a","event":"task-failed","error_code":"InvalidParameter","error_message":"Please ensure input text is valid.","attributes":{}},"payload":{}}
+[2026-03-21 16:50:10][INFO] tts server-WS is closed.
+[2026-03-21 16:50:10][INFO] Request ID: cd2e2493e4ab4b97ac0c2a88050adb1a
+[2026-03-21 16:50:16][INFO] Client connected
+[2026-03-21 16:50:16][INFO] Authentication successful
+[2026-03-21 16:50:21][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-21 16:50:21][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-21 16:50:21][INFO] Client is idle, resetting services
+[2026-03-21 16:50:26][INFO] Client is speaking
+[2026-03-21 16:50:27][INFO] tts server-WS is open.
+[2026-03-21 16:50:32][INFO] Speech ended, last speech position: 1140 ms
+[2026-03-21 16:50:33][INFO] 任务提交成功: chat_start_task, 参数: ('你好。',), {}
+[2026-03-21 16:50:33][INFO] asr result: 你好。
+[2026-03-21 16:50:34][INFO] Client is thinking
+[2026-03-21 16:50:34][INFO] [意图识别结果]: {"function_call": {"name": "continue_chat"}}
+[2026-03-21 16:50:34][INFO] [准备调用] {'function_call': {'name': 'continue_chat'}}
+[2026-03-21 16:50:34][INFO] [回复]: 
+[2026-03-21 16:50:35][INFO] Client is speaking
+[2026-03-21 16:50:36][INFO] tts server-WS is closed.
+[2026-03-21 16:50:36][INFO] Request ID: bd8e447a0bc443b8bed4ca71fef9b6ae
+[2026-03-21 16:50:40][INFO] tts server-WS is open.
+[2026-03-21 16:51:03][INFO] Speech synthesis task failed, {"header":{"task_id":"d807fe0003394d13b61fb14eeb74dca1","event":"task-failed","error_code":"InvalidParameter","error_message":"request timeout after 23 seconds.","attributes":{}},"payload":{}}
+[2026-03-21 16:51:03][INFO] tts server-WS is closed.
+[2026-03-21 16:52:01][INFO] Speech ended, last speech position: 1020 ms
+[2026-03-21 16:52:10][INFO] 任务提交成功: chat_start_task, 参数: ('今天。',), {}
+[2026-03-21 16:52:10][INFO] asr result: 今天。
+[2026-03-21 16:52:10][INFO] Client is thinking
+[2026-03-21 16:52:11][INFO] [意图识别结果]: {"function_call": {"name": "continue_chat"}}
+[2026-03-21 16:52:11][INFO] [准备调用] {'function_call': {'name': 'continue_chat'}}
+[2026-03-21 16:52:11][INFO] [回复]: 
+[2026-03-21 16:52:48][WARNING] Connection closed: no close frame received or sent
+[2026-03-21 16:52:48][INFO] Client disconnected
+[2026-03-21 16:53:23][INFO] Client connected
+[2026-03-21 16:53:23][INFO] Authentication successful
+[2026-03-21 16:53:28][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-21 16:53:28][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-21 16:53:28][INFO] Client is idle, resetting services
+[2026-03-21 16:53:33][INFO] Client is speaking
+[2026-03-21 16:53:35][INFO] tts server-WS is open.
+[2026-03-21 16:53:53][INFO] Speech ended, last speech position: 860 ms
+[2026-03-21 16:53:55][INFO] 任务提交成功: chat_start_task, 参数: ('。',), {}
+[2026-03-21 16:53:55][INFO] asr result: 。
+[2026-03-21 16:53:55][INFO] Client is thinking
+[2026-03-21 16:53:55][INFO] [意图识别结果]: {"function_call": {"name": "continue_chat"}}
+[2026-03-21 16:53:55][INFO] [准备调用] {'function_call': {'name': 'continue_chat'}}
+[2026-03-21 16:53:55][INFO] [回复]: 
+[2026-03-21 16:53:56][INFO] Client is speaking
+[2026-03-21 16:53:57][INFO] tts server-WS is closed.
+[2026-03-21 16:53:57][INFO] Request ID: 6d7564d12b1447069813d14eca4bb70c
+[2026-03-21 16:54:02][INFO] tts server-WS is open.
+[2026-03-21 16:54:25][INFO] Speech synthesis task failed, {"header":{"task_id":"e962810024554116927a8373f930f492","event":"task-failed","error_code":"InvalidParameter","error_message":"request timeout after 23 seconds.","attributes":{}},"payload":{}}
+[2026-03-21 16:54:25][INFO] tts server-WS is closed.
+[2026-03-21 16:55:42][INFO] Speech ended, last speech position: 1170 ms
+[2026-03-21 16:55:48][INFO] 任务提交成功: chat_start_task, 参数: ('.',), {}
+[2026-03-21 16:55:48][INFO] asr result: .
+[2026-03-21 16:55:48][INFO] Client is thinking
+[2026-03-21 16:55:49][INFO] [意图识别结果]: {"function_call": {"name": "continue_chat"}}
+[2026-03-21 16:55:49][INFO] [准备调用] {'function_call': {'name': 'continue_chat'}}
+[2026-03-21 16:55:49][INFO] [回复]: 
+[2026-03-21 16:56:02][INFO] Client disconnected
+[2026-03-21 16:56:57][INFO] Client connected
+[2026-03-21 16:56:57][INFO] Authentication successful
+[2026-03-21 16:57:02][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-21 16:57:02][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-21 16:57:02][INFO] Client is idle, resetting services
+[2026-03-21 16:57:07][INFO] Client is speaking
+[2026-03-21 16:57:08][INFO] tts server-WS is open.
+[2026-03-21 16:57:22][INFO] No speech detected for 3 seconds, drop...
+[2026-03-21 16:57:22][WARNING] vad result: no_speech
+[2026-03-21 16:57:23][INFO] Speech synthesis task failed, {"header":{"task_id":"399b3c26ac4041e9a51b52093e134d16","event":"task-failed","error_code":"InvalidParameter","error_message":"Please ensure input text is valid.","attributes":{}},"payload":{}}
+[2026-03-21 16:57:23][INFO] tts server-WS is closed.
+[2026-03-21 16:57:23][INFO] Request ID: 399b3c26ac4041e9a51b52093e134d16
+[2026-03-21 16:57:23][INFO] Client is idle, resetting services
+[2026-03-21 16:57:30][INFO] Client is speaking
+[2026-03-21 16:57:31][INFO] tts server-WS is open.
+[2026-03-21 16:57:38][INFO] Speech ended, last speech position: 1270 ms
+[2026-03-21 16:57:38][INFO] 任务提交成功: chat_start_task, 参数: ('你好。',), {}
+[2026-03-21 16:57:38][INFO] asr result: 你好。
+[2026-03-21 16:57:38][INFO] Client is thinking
+[2026-03-21 16:57:39][INFO] [意图识别结果]: {"function_call": {"name": "continue_chat"}}
+[2026-03-21 16:57:39][INFO] [准备调用] {'function_call': {'name': 'continue_chat'}}
+[2026-03-21 16:57:39][INFO] [回复]: 
+[2026-03-21 16:57:40][INFO] Client is speaking
+[2026-03-21 16:57:40][INFO] tts server-WS is closed.
+[2026-03-21 16:57:40][INFO] Request ID: 799d973b193044a289bef385abc7e132
+[2026-03-21 16:57:44][INFO] tts server-WS is open.
+[2026-03-21 16:58:07][INFO] Speech synthesis task failed, {"header":{"task_id":"3870513cac05434bb846ef4caee0d751","event":"task-failed","error_code":"InvalidParameter","error_message":"request timeout after 23 seconds.","attributes":{}},"payload":{}}
+[2026-03-21 16:58:07][INFO] tts server-WS is closed.
+[2026-03-21 16:58:38][WARNING] Connection closed: no close frame received or sent
+[2026-03-21 16:58:38][INFO] Client disconnected
+[2026-03-21 17:02:06][INFO] Client connected
+[2026-03-21 17:02:06][INFO] Authentication successful
+[2026-03-21 17:02:11][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-21 17:02:11][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-21 17:02:11][INFO] Client is idle, resetting services
+[2026-03-21 17:02:16][INFO] Client is speaking
+[2026-03-21 17:02:17][INFO] tts server-WS is open.
+[2026-03-21 17:02:29][INFO] Speech ended, last speech position: 1350 ms
+[2026-03-21 17:02:29][INFO] 任务提交成功: chat_start_task, 参数: ('你好你好。',), {}
+[2026-03-21 17:02:29][INFO] asr result: 你好你好。
+[2026-03-21 17:02:29][INFO] Client is thinking
+[2026-03-21 17:02:30][INFO] [意图识别结果]: {"function_call": {"name": "continue_chat"}}
+[2026-03-21 17:02:30][INFO] [准备调用] {'function_call': {'name': 'continue_chat'}}
+[2026-03-21 17:02:30][INFO] [回复]: 
+[2026-03-21 17:02:31][INFO] Client is speaking
+[2026-03-21 17:02:31][INFO] tts server-WS is closed.
+[2026-03-21 17:02:31][INFO] Request ID: 68fee61c23b74f3180c55d517ec53e40
+[2026-03-21 17:02:35][INFO] tts server-WS is open.
+[2026-03-21 17:02:58][INFO] Speech synthesis task failed, {"header":{"task_id":"4f2b4673bf284eb8a8e8b296499761b7","event":"task-failed","error_code":"InvalidParameter","error_message":"request timeout after 23 seconds.","attributes":{}},"payload":{}}
+[2026-03-21 17:02:58][INFO] tts server-WS is closed.
+[2026-03-21 17:03:32][INFO] No speech detected for 3 seconds, drop...
+[2026-03-21 17:03:32][WARNING] vad result: no_speech
+[2026-03-21 17:03:32][INFO] Client is idle, resetting services
+[2026-03-21 17:03:51][INFO] Client is speaking
+[2026-03-21 17:03:53][INFO] tts server-WS is open.
+[2026-03-21 17:04:16][INFO] Speech synthesis task failed, {"header":{"task_id":"6765a94806f540ec8477a8e3f00d6125","event":"task-failed","error_code":"InvalidParameter","error_message":"request timeout after 23 seconds.","attributes":{}},"payload":{}}
+[2026-03-21 17:04:16][INFO] tts server-WS is closed.
+[2026-03-21 17:05:15][INFO] No speech detected for 3 seconds, drop...
+[2026-03-21 17:05:15][WARNING] vad result: no_speech
+[2026-03-21 17:05:16][INFO] Client is idle, resetting services
+[2026-03-21 17:05:53][INFO] Client is speaking
+[2026-03-21 17:05:55][INFO] tts server-WS is open.
+[2026-03-21 17:06:18][INFO] Speech synthesis task failed, {"header":{"task_id":"d5d9a0267bb6493981e1267024522ea9","event":"task-failed","error_code":"InvalidParameter","error_message":"request timeout after 23 seconds.","attributes":{}},"payload":{}}
+[2026-03-21 17:06:18][INFO] tts server-WS is closed.
+[2026-03-21 17:07:17][WARNING] Connection closed: no close frame received or sent
+[2026-03-21 17:07:17][INFO] Client disconnected
+[2026-03-21 17:10:05][INFO] Client connected
+[2026-03-21 17:10:05][INFO] Authentication successful
+[2026-03-21 17:10:10][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-21 17:10:10][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-21 17:10:10][INFO] Client is idle, resetting services
+[2026-03-21 17:10:16][INFO] Client is speaking
+[2026-03-21 17:10:18][INFO] tts server-WS is open.
+[2026-03-21 17:10:21][INFO] Speech ended, last speech position: 990 ms
+[2026-03-21 17:10:22][INFO] 任务提交成功: chat_start_task, 参数: ('你好，。',), {}
+[2026-03-21 17:10:22][INFO] asr result: 你好，。
+[2026-03-21 17:10:22][INFO] Client is thinking
+[2026-03-21 17:10:22][INFO] [意图识别结果]: {"function_call": {"name": "continue_chat"}}
+[2026-03-21 17:10:22][INFO] [准备调用] {'function_call': {'name': 'continue_chat'}}
+[2026-03-21 17:10:22][INFO] [回复]: 
+[2026-03-21 17:10:24][INFO] Client is speaking
+[2026-03-21 17:10:24][INFO] tts server-WS is closed.
+[2026-03-21 17:10:24][INFO] Request ID: 82ec62b967014f8193578f621e8ab6ee
+[2026-03-21 17:10:28][INFO] tts server-WS is open.
+[2026-03-21 17:10:36][WARNING] Connection closed: no close frame received or sent
+[2026-03-21 17:10:36][INFO] Speech synthesis task failed, {"header":{"task_id":"974ea2663db34250bb639121db343dc5","event":"task-failed","error_code":"InvalidParameter","error_message":"Please ensure input text is valid.","attributes":{}},"payload":{}}
+[2026-03-21 17:10:36][INFO] tts server-WS is closed.
+[2026-03-21 17:10:36][INFO] Request ID: 974ea2663db34250bb639121db343dc5
+[2026-03-21 17:10:36][INFO] Client disconnected
+[2026-03-21 17:17:14][INFO] Client connected
+[2026-03-21 17:17:14][INFO] Authentication successful
+[2026-03-21 17:17:19][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-21 17:17:19][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-21 17:17:20][INFO] Client is idle, resetting services
+[2026-03-21 17:18:24][WARNING] Connection closed: no close frame received or sent
+[2026-03-21 17:18:24][INFO] Client disconnected
+[2026-03-21 17:49:10][INFO] Client connected
+[2026-03-21 17:49:10][INFO] Authentication successful
+[2026-03-21 17:49:15][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-21 17:49:15][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-21 17:49:16][INFO] Client is idle, resetting services
+[2026-03-21 17:49:56][WARNING] Connection closed: no close frame received or sent
+[2026-03-21 17:49:56][INFO] Client disconnected
+[2026-03-21 17:51:13][INFO] Client connected
+[2026-03-21 17:51:13][INFO] Authentication successful
+[2026-03-21 17:51:18][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-21 17:51:18][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-21 17:51:18][INFO] Client is idle, resetting services
+[2026-03-21 17:51:19][INFO] Client is speaking
+[2026-03-21 17:51:21][INFO] tts server-WS is open.
+[2026-03-21 17:51:29][INFO] Speech ended, last speech position: 1230 ms
+[2026-03-21 17:51:31][INFO] 任务提交成功: chat_start_task, 参数: ('O, O.',), {}
+[2026-03-21 17:51:31][INFO] asr result: O, O.
+[2026-03-21 17:51:31][INFO] Client is thinking
+[2026-03-21 17:51:31][INFO] [意图识别结果]: {"function_call": {"name": "continue_chat"}}
+[2026-03-21 17:51:31][INFO] [准备调用] {'function_call': {'name': 'continue_chat'}}
+[2026-03-21 17:51:31][INFO] [回复]: 
+[2026-03-21 17:51:32][INFO] Client is speaking
+[2026-03-21 17:51:33][INFO] tts server-WS is closed.
+[2026-03-21 17:51:33][INFO] Request ID: 71063b896fec4d329cb6f2286f12aa95
+[2026-03-21 17:51:36][WARNING] Connection closed: no close frame received or sent
+[2026-03-21 17:51:36][INFO] Client disconnected
+[2026-03-21 21:07:53][INFO] WebSocket server started on 0.0.0.0:8000
+[2026-03-21 21:07:57][INFO] 服务器已关闭。
+[2026-03-21 21:07:57][INFO] 程序已被用户中断
+[2026-03-21 21:07:57][INFO] 事件循环已关闭
+[2026-03-21 22:22:14][INFO] WebSocket server started on 0.0.0.0:8000
+[2026-03-21 22:22:25][INFO] Client connected
+[2026-03-21 22:22:25][INFO] Authentication successful
+[2026-03-21 22:22:30][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-21 22:22:30][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-21 22:22:30][INFO] 成功注册函数: volume_adjust, 描述: 调整音量, 参数: {'decrease': '整数数据,表示音量减少量,每次减少10', 'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'increase': '整数数据,表示音量增加量,每次增加10', 'speed': '整数数据,表示运动速度', 'volume': '整数数据,表示音量大小'}
+[2026-03-21 22:22:30][INFO] Client is idle, resetting services
+[2026-03-21 22:22:56][INFO] Client disconnected
+[2026-03-21 22:28:17][INFO] Client connected
+[2026-03-21 22:28:17][INFO] Authentication successful
+[2026-03-21 22:28:22][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-21 22:28:22][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-21 22:28:22][INFO] 成功注册函数: volume_adjust, 描述: 调整音量, 参数: {'decrease': '整数数据,表示音量减少量,每次减少10', 'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'increase': '整数数据,表示音量增加量,每次增加10', 'speed': '整数数据,表示运动速度', 'volume': '整数数据,表示音量大小'}
+[2026-03-21 22:28:22][INFO] Client is idle, resetting services
+[2026-03-21 22:32:54][WARNING] Connection closed: no close frame received or sent
+[2026-03-21 22:32:54][INFO] Client disconnected
+[2026-03-21 22:46:17][INFO] Client connected
+[2026-03-21 22:46:17][INFO] Authentication successful
+[2026-03-21 22:46:22][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-21 22:46:22][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-21 22:46:22][INFO] 成功注册函数: volume_adjust, 描述: 调整音量, 参数: {'decrease': '整数数据,表示音量减少量,每次减少10', 'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'increase': '整数数据,表示音量增加量,每次增加10', 'speed': '整数数据,表示运动速度', 'volume': '整数数据,表示音量大小'}
+[2026-03-21 22:46:22][INFO] Client is idle, resetting services
+[2026-03-21 22:46:23][INFO] Client is speaking
+[2026-03-21 22:46:25][INFO] tts server-WS is open.
+[2026-03-21 22:46:33][INFO] Speech ended, last speech position: 1310 ms
+[2026-03-21 22:46:35][INFO] 任务提交成功: chat_start_task, 参数: ('降低音量。',), {}
+[2026-03-21 22:46:35][INFO] asr result: 降低音量。
+[2026-03-21 22:46:35][INFO] Client is thinking
+[2026-03-21 22:46:36][INFO] [意图识别结果]: {"function_call": {"name": "volume_adjust", "arguments": {"decrease": 10}}}
+[2026-03-21 22:46:36][INFO] [准备调用] {'function_call': {'name': 'volume_adjust', 'arguments': {'decrease': '10'}}}
+[2026-03-21 22:46:36][INFO] [回复]: 
+[2026-03-21 22:46:37][INFO] tts server-WS is closed.
+[2026-03-21 22:46:37][INFO] Request ID: 8a7601e4da9544bab1d0daa801f5c24b
+[2026-03-21 22:46:37][INFO] Client is speaking
+[2026-03-21 22:46:39][INFO] tts server-WS is open.
+[2026-03-21 22:46:57][INFO] Speech ended, last speech position: 1840 ms
+[2026-03-21 22:47:01][INFO] 任务提交成功: chat_start_task, 参数: ('再降低一点音量。',), {}
+[2026-03-21 22:47:01][INFO] asr result: 再降低一点音量。
+[2026-03-21 22:47:01][INFO] Client is thinking
+[2026-03-21 22:47:02][INFO] [意图识别结果]: {"function_call": {"name": "volume_adjust", "arguments": {"decrease": 1}}}
+[2026-03-21 22:47:02][INFO] [准备调用] {'function_call': {'name': 'volume_adjust', 'arguments': {'decrease': '1'}}}
+[2026-03-21 22:47:02][INFO] [回复]: 
+[2026-03-21 22:47:03][INFO] Client is speaking
+[2026-03-21 22:47:03][INFO] tts server-WS is closed.
+[2026-03-21 22:47:03][INFO] Request ID: a73f69166af84ec4b17c1f2021311df6
+[2026-03-21 22:47:06][INFO] tts server-WS is open.
+[2026-03-21 22:47:18][INFO] Speech ended, last speech position: 2750 ms
+[2026-03-21 22:47:20][INFO] 任务提交成功: chat_start_task, 参数: ('将音量设置为50。',), {}
+[2026-03-21 22:47:20][INFO] asr result: 将音量设置为50。
+[2026-03-21 22:47:20][INFO] Client is thinking
+[2026-03-21 22:47:20][INFO] [意图识别结果]: {"function_call": {"name": "volume_adjust", "arguments": {"volume": 50}}}
+[2026-03-21 22:47:20][INFO] [准备调用] {'function_call': {'name': 'volume_adjust', 'arguments': {'volume': '50'}}}
+[2026-03-21 22:47:20][INFO] [回复]: 
+[2026-03-21 22:47:22][INFO] Client is speaking
+[2026-03-21 22:47:22][INFO] tts server-WS is closed.
+[2026-03-21 22:47:22][INFO] Request ID: c2ff10395e604c0fae1d13caed7c46dc
+[2026-03-21 22:47:25][INFO] tts server-WS is open.
+[2026-03-21 22:47:37][INFO] Speech ended, last speech position: 2210 ms
+[2026-03-21 22:47:39][INFO] 任务提交成功: chat_start_task, 参数: ('将音量设置为80。',), {}
+[2026-03-21 22:47:39][INFO] asr result: 将音量设置为80。
+[2026-03-21 22:47:39][INFO] Client is thinking
+[2026-03-21 22:47:40][INFO] [意图识别结果]: {"function_call": {"name": "volume_adjust", "arguments": {"volume": 80}}}
+[2026-03-21 22:47:40][INFO] [准备调用] {'function_call': {'name': 'volume_adjust', 'arguments': {'volume': '80'}}}
+[2026-03-21 22:47:40][INFO] [回复]: 
+[2026-03-21 22:47:41][INFO] Client is speaking
+[2026-03-21 22:47:41][INFO] tts server-WS is closed.
+[2026-03-21 22:47:41][INFO] Request ID: a40b6409c1cb481faeb80716f6d13a7d
+[2026-03-21 22:47:44][INFO] tts server-WS is open.
+[2026-03-21 22:47:53][INFO] Speech ended, last speech position: 2350 ms
+[2026-03-21 22:47:56][INFO] 任务提交成功: chat_start_task, 参数: ('好，谢谢你，再见。',), {}
+[2026-03-21 22:47:56][INFO] asr result: 好，谢谢你，再见。
+[2026-03-21 22:47:56][INFO] Client is thinking
+[2026-03-21 22:47:56][INFO] [意图识别结果]: {"function_call": {"name": "exit_chat"}}
+[2026-03-21 22:47:56][INFO] [准备调用] {'function_call': {'name': 'exit_chat'}}
+[2026-03-21 22:47:56][INFO] [回复]: 
+[2026-03-21 22:47:57][INFO] Client is speaking
+[2026-03-21 22:47:57][INFO] tts server-WS is closed.
+[2026-03-21 22:47:57][INFO] Request ID: ef9c2578e55d497bbcd70112389af155
+[2026-03-21 22:47:59][INFO] Client is idle, resetting services
+[2026-03-21 22:48:10][INFO] Client disconnected

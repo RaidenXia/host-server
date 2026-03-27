@@ -1,0 +1,288 @@
+[2026-03-18 12:39:26][INFO] WebSocket server started on 0.0.0.0:8000
+[2026-03-18 12:40:03][INFO] Client connected
+[2026-03-18 12:40:03][INFO] Authentication successful
+[2026-03-18 12:40:08][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 12:40:08][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 12:40:08][INFO] Client is idle, resetting services
+[2026-03-18 12:42:35][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 12:42:35][INFO] Client disconnected
+[2026-03-18 13:02:17][INFO] Client connected
+[2026-03-18 13:02:17][INFO] Authentication successful
+[2026-03-18 13:02:22][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 13:02:22][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 13:02:22][INFO] Client is idle, resetting services
+[2026-03-18 13:03:05][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 13:03:05][INFO] Client disconnected
+[2026-03-18 13:22:28][INFO] Client connected
+[2026-03-18 13:22:28][INFO] Authentication successful
+[2026-03-18 13:22:33][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 13:22:33][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 13:22:33][INFO] Client is idle, resetting services
+[2026-03-18 13:25:49][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 13:25:49][INFO] Client disconnected
+[2026-03-18 13:28:36][INFO] Client connected
+[2026-03-18 13:28:36][INFO] Authentication successful
+[2026-03-18 13:28:41][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 13:28:41][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 13:28:42][INFO] Client is idle, resetting services
+[2026-03-18 13:32:08][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 13:32:08][INFO] Client disconnected
+[2026-03-18 14:57:17][INFO] Client connected
+[2026-03-18 14:57:17][INFO] Authentication successful
+[2026-03-18 14:57:22][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 14:57:22][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 14:57:23][INFO] Client is idle, resetting services
+[2026-03-18 15:07:06][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 15:07:06][INFO] Client disconnected
+[2026-03-18 15:08:09][INFO] Client connected
+[2026-03-18 15:08:09][INFO] Authentication successful
+[2026-03-18 15:08:14][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 15:08:14][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 15:08:14][INFO] Client is idle, resetting services
+[2026-03-18 15:18:08][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 15:18:08][INFO] Client disconnected
+[2026-03-18 15:19:39][INFO] 服务器已关闭。
+[2026-03-18 15:19:39][INFO] 程序已被用户中断
+[2026-03-18 15:19:39][INFO] 事件循环已关闭
+[2026-03-18 15:22:11][INFO] WebSocket server started on 0.0.0.0:8000
+[2026-03-18 15:22:15][INFO] Client connected
+[2026-03-18 15:22:15][INFO] Authentication successful
+[2026-03-18 15:22:20][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 15:22:20][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 15:22:20][INFO] Client is idle, resetting services
+[2026-03-18 15:25:38][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 15:25:38][INFO] Client disconnected
+[2026-03-18 15:28:57][INFO] Client connected
+[2026-03-18 15:28:57][INFO] Authentication successful
+[2026-03-18 15:29:02][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 15:29:02][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 15:29:03][INFO] Client is idle, resetting services
+[2026-03-18 15:32:14][INFO] Client disconnected
+[2026-03-18 15:32:55][INFO] Client connected
+[2026-03-18 15:32:55][INFO] Authentication successful
+[2026-03-18 15:33:00][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 15:33:00][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 15:33:00][INFO] Client is idle, resetting services
+[2026-03-18 15:36:39][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 15:36:39][INFO] Client disconnected
+[2026-03-18 15:47:56][INFO] Client connected
+[2026-03-18 15:47:56][INFO] Authentication successful
+[2026-03-18 15:48:01][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 15:48:01][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 15:48:01][INFO] Client is idle, resetting services
+[2026-03-18 15:48:22][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 15:48:22][INFO] Client disconnected
+[2026-03-18 15:48:54][INFO] Client connected
+[2026-03-18 15:48:54][INFO] Authentication successful
+[2026-03-18 15:48:59][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 15:48:59][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 15:48:59][INFO] Client is idle, resetting services
+[2026-03-18 15:50:54][INFO] Client disconnected
+[2026-03-18 15:50:56][INFO] Client connected
+[2026-03-18 15:50:56][INFO] Authentication successful
+[2026-03-18 15:51:01][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 15:51:01][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 15:51:01][INFO] Client is idle, resetting services
+[2026-03-18 15:51:45][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 15:51:45][INFO] Client disconnected
+[2026-03-18 15:55:07][INFO] Client connected
+[2026-03-18 15:55:07][INFO] Authentication successful
+[2026-03-18 15:55:12][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 15:55:12][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 15:55:12][INFO] Client is idle, resetting services
+[2026-03-18 15:57:16][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 15:57:16][INFO] Client disconnected
+[2026-03-18 15:57:25][INFO] Client connected
+[2026-03-18 15:57:25][INFO] Authentication successful
+[2026-03-18 15:57:30][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 15:57:30][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 15:57:30][INFO] Client is idle, resetting services
+[2026-03-18 16:03:04][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 16:03:04][INFO] Client disconnected
+[2026-03-18 16:07:55][INFO] Client connected
+[2026-03-18 16:07:55][INFO] Authentication successful
+[2026-03-18 16:08:00][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 16:08:00][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 16:08:00][INFO] Client is idle, resetting services
+[2026-03-18 16:11:34][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 16:11:34][INFO] Client disconnected
+[2026-03-18 16:15:49][INFO] Client connected
+[2026-03-18 16:15:49][INFO] Authentication successful
+[2026-03-18 16:15:54][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 16:15:54][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 16:15:54][INFO] Client is idle, resetting services
+[2026-03-18 16:17:04][INFO] Client is speaking
+[2026-03-18 16:17:10][INFO] tts server-WS is open.
+[2026-03-18 16:17:17][INFO] Speech ended, last speech position: 3020 ms
+[2026-03-18 16:17:18][INFO] 任务提交成功: chat_start_task, 参数: ('.',), {}
+[2026-03-18 16:17:18][INFO] asr result: .
+[2026-03-18 16:17:18][INFO] Client is thinking
+[2026-03-18 16:17:19][INFO] [意图识别结果]: {"function_call": {"name": "continue_chat"}}
+[2026-03-18 16:17:19][INFO] [准备调用] {'function_call': {'name': 'continue_chat'}}
+[2026-03-18 16:17:19][INFO] [回复]: 
+[2026-03-18 16:17:20][INFO] Client is speaking
+[2026-03-18 16:17:20][INFO] tts server-WS is closed.
+[2026-03-18 16:17:20][INFO] Request ID: 3a5e7e79b1dd4b33a4383cf4ab4d383a
+[2026-03-18 16:17:27][INFO] Client disconnected
+[2026-03-18 16:37:52][INFO] Client connected
+[2026-03-18 16:37:52][INFO] Authentication successful
+[2026-03-18 16:37:57][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 16:37:57][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 16:37:57][INFO] Client is idle, resetting services
+[2026-03-18 16:38:59][INFO] Client is speaking
+[2026-03-18 16:39:05][INFO] tts server-WS is open.
+[2026-03-18 16:39:16][INFO] Speech ended, last speech position: 2000 ms
+[2026-03-18 16:39:17][INFO] 任务提交成功: chat_start_task, 参数: ('真想吧我我就是在搞啊，想把这个。😔',), {}
+[2026-03-18 16:39:17][INFO] asr result: 真想吧我我就是在搞啊，想把这个。😔
+[2026-03-18 16:39:17][INFO] Client is thinking
+[2026-03-18 16:39:18][INFO] [意图识别结果]: {"function_call": {"name": "continue_chat"}}
+[2026-03-18 16:39:18][INFO] [准备调用] {'function_call': {'name': 'continue_chat'}}
+[2026-03-18 16:39:18][INFO] [回复]: 
+[2026-03-18 16:39:19][INFO] Client is speaking
+[2026-03-18 16:39:20][INFO] tts server-WS is closed.
+[2026-03-18 16:39:20][INFO] Request ID: 12437a4a136a457ab93aa050bf36d061
+[2026-03-18 16:39:32][INFO] tts server-WS is open.
+[2026-03-18 16:39:44][INFO] Client disconnected
+[2026-03-18 16:39:45][INFO] Speech synthesis task failed, {"header":{"task_id":"fdc1ec8756094b02954f8c0324452566","event":"task-failed","error_code":"InvalidParameter","error_message":"Please ensure input text is valid.","attributes":{}},"payload":{}}
+[2026-03-18 16:39:45][INFO] tts server-WS is closed.
+[2026-03-18 16:39:45][INFO] Request ID: fdc1ec8756094b02954f8c0324452566
+[2026-03-18 16:51:04][INFO] Client connected
+[2026-03-18 16:51:04][INFO] Authentication successful
+[2026-03-18 16:51:09][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 16:51:09][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 16:51:09][INFO] Client is idle, resetting services
+[2026-03-18 16:51:37][INFO] Client is speaking
+[2026-03-18 16:51:43][INFO] tts server-WS is open.
+[2026-03-18 16:52:06][INFO] Speech synthesis task failed, {"header":{"task_id":"4c0d1df7c83c47268995328024975097","event":"task-failed","error_code":"InvalidParameter","error_message":"request timeout after 23 seconds.","attributes":{}},"payload":{}}
+[2026-03-18 16:52:06][INFO] tts server-WS is closed.
+[2026-03-18 16:53:13][INFO] Client disconnected
+[2026-03-18 18:00:14][INFO] Client connected
+[2026-03-18 18:00:14][INFO] Authentication successful
+[2026-03-18 18:00:19][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 18:00:19][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 18:00:19][INFO] Client is idle, resetting services
+[2026-03-18 18:03:08][INFO] Client disconnected
+[2026-03-18 18:27:30][INFO] Client connected
+[2026-03-18 18:27:30][INFO] Authentication successful
+[2026-03-18 18:27:35][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 18:27:35][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 18:27:35][INFO] Client is idle, resetting services
+[2026-03-18 18:27:40][INFO] Client is speaking
+[2026-03-18 18:27:46][INFO] tts server-WS is open.
+[2026-03-18 18:27:47][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 18:27:47][INFO] Speech synthesis task failed, {"header":{"task_id":"0c9fb363686041c28e197acdc436101f","event":"task-failed","error_code":"InvalidParameter","error_message":"Please ensure input text is valid.","attributes":{}},"payload":{}}
+[2026-03-18 18:27:47][INFO] tts server-WS is closed.
+[2026-03-18 18:27:47][INFO] Request ID: 0c9fb363686041c28e197acdc436101f
+[2026-03-18 18:27:47][INFO] Client disconnected
+[2026-03-18 18:50:57][INFO] Client connected
+[2026-03-18 18:50:57][INFO] Authentication successful
+[2026-03-18 18:51:02][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 18:51:02][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 18:51:02][INFO] Client is idle, resetting services
+[2026-03-18 18:52:53][INFO] Client disconnected
+[2026-03-18 19:05:03][INFO] Client connected
+[2026-03-18 19:05:03][INFO] Authentication successful
+[2026-03-18 19:05:08][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 19:05:08][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 19:05:08][INFO] Client is idle, resetting services
+[2026-03-18 19:10:14][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 19:10:14][INFO] Client disconnected
+[2026-03-18 19:31:05][INFO] Client connected
+[2026-03-18 19:31:05][INFO] Authentication successful
+[2026-03-18 19:31:10][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 19:31:10][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 19:31:10][INFO] Client is idle, resetting services
+[2026-03-18 19:33:35][INFO] Client disconnected
+[2026-03-18 19:54:48][INFO] Client connected
+[2026-03-18 19:54:48][INFO] Authentication successful
+[2026-03-18 19:54:53][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 19:54:53][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 19:54:53][INFO] Client is idle, resetting services
+[2026-03-18 20:13:44][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 20:13:44][INFO] Client disconnected
+[2026-03-18 20:18:59][INFO] Client connected
+[2026-03-18 20:18:59][INFO] Authentication successful
+[2026-03-18 20:19:04][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 20:19:04][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 20:19:05][INFO] Client is idle, resetting services
+[2026-03-18 20:24:28][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 20:24:28][INFO] Client disconnected
+[2026-03-18 20:24:42][INFO] 服务器已关闭。
+[2026-03-18 20:24:42][INFO] 程序已被用户中断
+[2026-03-18 20:24:42][INFO] 事件循环已关闭
+[2026-03-18 22:03:50][INFO] WebSocket server started on 0.0.0.0:8000
+[2026-03-18 22:03:56][INFO] Client connected
+[2026-03-18 22:03:56][INFO] Authentication successful
+[2026-03-18 22:04:01][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 22:04:01][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 22:04:01][INFO] Client is idle, resetting services
+[2026-03-18 22:06:46][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 22:06:46][INFO] Client disconnected
+[2026-03-18 22:06:57][INFO] Client connected
+[2026-03-18 22:06:57][INFO] Authentication successful
+[2026-03-18 22:07:02][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 22:07:02][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 22:07:02][INFO] Client is idle, resetting services
+[2026-03-18 22:08:22][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 22:08:22][INFO] Client disconnected
+[2026-03-18 22:09:04][INFO] Client connected
+[2026-03-18 22:09:04][INFO] Authentication successful
+[2026-03-18 22:09:09][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 22:09:09][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 22:09:09][INFO] Client is idle, resetting services
+[2026-03-18 22:10:24][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 22:10:24][INFO] Client disconnected
+[2026-03-18 22:13:10][INFO] Client connected
+[2026-03-18 22:13:10][INFO] Authentication successful
+[2026-03-18 22:13:15][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 22:13:15][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 22:13:15][INFO] Client is idle, resetting services
+[2026-03-18 22:14:34][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 22:14:34][INFO] Client disconnected
+[2026-03-18 22:17:46][INFO] Client connected
+[2026-03-18 22:17:46][INFO] Authentication successful
+[2026-03-18 22:17:51][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 22:17:51][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 22:17:51][INFO] Client is idle, resetting services
+[2026-03-18 22:24:17][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 22:24:17][INFO] Client disconnected
+[2026-03-18 22:26:04][INFO] Client connected
+[2026-03-18 22:26:04][INFO] Authentication successful
+[2026-03-18 22:26:09][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 22:26:09][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 22:26:09][INFO] Client is idle, resetting services
+[2026-03-18 22:28:57][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 22:28:57][INFO] Client disconnected
+[2026-03-18 22:32:26][INFO] Client connected
+[2026-03-18 22:32:26][INFO] Authentication successful
+[2026-03-18 22:32:31][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 22:32:31][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 22:32:31][INFO] Client is idle, resetting services
+[2026-03-18 22:32:36][INFO] Client is speaking
+[2026-03-18 22:32:41][INFO] tts server-WS is open.
+[2026-03-18 22:32:49][INFO] No speech detected for 3 seconds, drop...
+[2026-03-18 22:32:49][WARNING] vad result: no_speech
+[2026-03-18 22:32:49][INFO] Speech synthesis task failed, {"header":{"task_id":"e579c5d08b7f40659d85cf9e0983bb1b","event":"task-failed","error_code":"InvalidParameter","error_message":"Please ensure input text is valid.","attributes":{}},"payload":{}}
+[2026-03-18 22:32:49][INFO] tts server-WS is closed.
+[2026-03-18 22:32:49][INFO] Request ID: e579c5d08b7f40659d85cf9e0983bb1b
+[2026-03-18 22:32:49][INFO] Client is idle, resetting services
+[2026-03-18 22:36:40][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 22:36:40][INFO] Client disconnected
+[2026-03-18 22:37:15][INFO] Client connected
+[2026-03-18 22:37:15][INFO] Authentication successful
+[2026-03-18 22:37:20][INFO] Received hello message with audio params: {'format': 'opus', 'sample_rate': 16000, 'channels': 1, 'frame_duration': 40}
+[2026-03-18 22:37:20][INFO] 成功注册函数: robot_move, 描述: 让机器人运动, 参数: {'direction': '字符数据,分别有forward,backward,left和right', 'duration': '浮点数,表示运动持续时间（秒）', 'speed': '整数数据,表示运动速度'}
+[2026-03-18 22:37:20][INFO] Client is idle, resetting services
+[2026-03-18 22:37:24][INFO] Client is speaking
+[2026-03-18 22:37:31][INFO] tts server-WS is open.
+[2026-03-18 22:37:37][INFO] No speech detected for 3 seconds, drop...
+[2026-03-18 22:37:37][WARNING] vad result: no_speech
+[2026-03-18 22:37:38][INFO] Speech synthesis task failed, {"header":{"task_id":"3274dd921f5a4163b2cf35539e5dbdcc","event":"task-failed","error_code":"InvalidParameter","error_message":"Please ensure input text is valid.","attributes":{}},"payload":{}}
+[2026-03-18 22:37:38][INFO] tts server-WS is closed.
+[2026-03-18 22:37:38][INFO] Request ID: 3274dd921f5a4163b2cf35539e5dbdcc
+[2026-03-18 22:37:38][INFO] Client is idle, resetting services
+[2026-03-18 22:38:13][WARNING] Connection closed: no close frame received or sent
+[2026-03-18 22:38:13][INFO] Client disconnected
+[2026-03-18 22:41:00][INFO] 服务器已关闭。
+[2026-03-18 22:41:00][INFO] 程序已被用户中断
+[2026-03-18 22:41:00][INFO] 事件循环已关闭
